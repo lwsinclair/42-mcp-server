@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/smizuoch-42-mcp-server-badge.png)](https://mseep.ai/app/smizuoch-42-mcp-server)
+
 # 42 MCP Server
 
 English | [日本語](README.ja.md)
